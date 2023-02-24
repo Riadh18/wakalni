@@ -1,0 +1,17 @@
+header{
+    background: url("../pic/pic1.png")right no-repeat;
+    background-size:cover;
+    width: 60%;
+    max-width: 100%;
+    text-align: left;
+    height: 363px;
+    overflow: hidden;
+    margin-left: 38%;
+    margin-top: 3%;
+    
+}
+
+header h2{
+    color: rgb(2, 2, 2);
+    margin-left: 2%;
+}
